@@ -1,0 +1,9 @@
+* cl-webdav
+
+WebDAV server written in Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/edicl/cl-webdav.git |
+| commit  | 3d33a6d                                    |
+| systems | cl-webdav                                  |
+|---------+--------------------------------------------|
